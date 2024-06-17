@@ -3,7 +3,7 @@
 Sou estudante de desenvolvimento Kotlin para Android e apaixonada por tecnologia.
 ### 👀 Estou a procura de uma vaga no momento
 
-## ⚡ Minhas Habilidades
+### ⚡ Minhas Habilidades
 - Desenvolvimento Android (Java e Kotlin)
 - Arquiteturas MVC, MVP, MVVM
 - APis com Retrofit, Coroutines
