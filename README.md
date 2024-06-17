@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oii, Camille Santos aqui! 😸
 
-<!--
-**camillerdss/camillerdss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento Kotlin para Android e apaixonada por tecnologia.
+### 👀 Estou a procura de uma vaga no momento
 
-Here are some ideas to get you started:
+## ⚡ Minhas Habilidades
+- Desenvolvimento Android (Java e Kotlin)
+- Arquiteturas MVC, MVP, MVVM
+- APis com Retrofit, Coroutines
+- Git e GitHub
+- Firebase, SQLite e SQL
+- Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Entre em contato
+Email: camille.rssantos@gmail.com
